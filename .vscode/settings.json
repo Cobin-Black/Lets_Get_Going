@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Let's Get Going.sln"
+    "dotnet.defaultSolution": "Lets_Get_Going.sln"
 }
